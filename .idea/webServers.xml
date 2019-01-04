@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="991819b2-0e06-4b78-b063-b28d38117df8" name="sss" url="http://202.195.167.244">
+        <fileTransfer host="202.195.167.244" port="22" rootFolder="/home/glj/codes/dm" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
